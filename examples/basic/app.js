@@ -1,2 +1,2 @@
-var app = angular.module('myApp',['nvd3ChartDirectives']);
+var app = angular.module('myApp',['nvd3BarChartDirective']);
 

@@ -1,4 +1,4 @@
-angular.module('nvd3ChartDirectives', [])
+angular.module('nvd3BarChartDirective', [])
   /**
    *  Directive for creating a Discrete Bar Chart
    *  HTML USE: Agregar en Jade lo siguiente
